@@ -1,0 +1,25 @@
+{
+  "folders": [
+	{
+		"name": "build",
+		"path": "../../../../skypro-fitness/build"
+	},
+	{
+		"name": "skypro-fitness",
+		"path": "../err/skypro-fitness"
+	},
+	{
+		"name": "src",
+		"path": "../../../../skypro-fitness/src"
+	},
+	{
+		"name": "node_modules",
+		"path": "../../../../skypro-fitness/node_modules"
+	},
+	{
+		"name": "public",
+		"path": "../../../../skypro-fitness/public"
+	}
+],
+  "settings": {}
+}
